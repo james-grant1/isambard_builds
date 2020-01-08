@@ -1,3 +1,8 @@
+# CASTEP build script for Isambard
+# James Grant, University of Bath, rjg20@bath.ac.uk
+
+# Run from directory: castep<-version>
+
 # Load fftw module
 module load cray-fftw
 
