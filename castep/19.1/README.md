@@ -1,4 +1,4 @@
-# Default build for CASTEP 18.1 on Isambard (ARM TX2)
+# Default build for CASTEP 19.1 on Isambard (ARM TX2)
 # James Grant, University of Bath, rjg20@bath.ac.uk
 
 ## 6th January 2020
