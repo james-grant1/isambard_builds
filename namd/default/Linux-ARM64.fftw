@@ -1,0 +1,6 @@
+FFTDIR=/opt/cray/pe/fftw/3.3.8.2/arm_thunderx2/
+FFTINCL=-I$(FFTDIR)/include
+FFTLIB=-L$(FFTDIR)/lib -lfftw 
+FFTFLAGS=-DNAMD_FFTW
+FFT=$(FFTINCL) $(FFTFLAGS)
+
